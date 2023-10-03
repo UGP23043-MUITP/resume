@@ -1,10 +1,32 @@
-h1{
-    color:green
-}
-.name-container {
-background-color: purple;
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .resume {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            background-color: #f9f9f9;
+        }
+        .header {
+            text-align: center;
+        }
+        .name {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .contact {
+            margin-top: 10px;
+            font-size: 16px;
+        }
+        .section {
+            margin-top: 20px;
+        }
+        .section-title {
+            font-size: 20px;
+            font-weight: bold;
+        }
+        .section-content {
+            margin-top: 10px;
+        }
 
-font-family:
-
-
-}
